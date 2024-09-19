@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Connor 👋
 
 <!--
 **ConWhiSW/ConWhiSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍🎓 Mathematics Graduate from The University of Manchester
+- 💻 Software Developer at [Softwire](https://www.softwire.com)
+- 😄 Pronouns: he/him
+- 🎺 Fun fact: Brass Musician
+- 🌐 Check out my [website](ConWhiSW.github.io)
